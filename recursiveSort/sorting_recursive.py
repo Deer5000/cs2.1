@@ -78,4 +78,4 @@ def quick_sort(list, start, end):
 around a pivot item and recursively sorting each remaining sublist range.
 TODO: Best case running time: O(n log n)✅
 TODO: Worst case running time: O(n2)✅
-TODO: Memory usage: O(log n)"""✅
+TODO: Memory usage: O(log n)✅"""
